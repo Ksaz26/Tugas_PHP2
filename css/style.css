@@ -1,0 +1,13 @@
+body{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url('https://cdn.wallpapersafari.com/11/10/dGH3kP.jpg');
+}
+form{
+    width: 75%;
+    color: whitesmoke;
+    margin-left: 30% ;
+}
+p {
+    color: white;
+}
